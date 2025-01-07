@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Squat and Walk",
+    "time": "10 seconds",
+    "thumbnail": "assets/squat1.jpg",
+    "videoUrl": "https://videos.pexels.com/video-files/4258996/4258996-uhd_2560_1440_25fps.mp4"
+  },
+  {
+    "title": "PushUp",
+    "time": "30 seconds",
+    "thumbnail": "assets/squat2.jpg",
+    "videoUrl": "https://videos.pexels.com/video-files/4367576/4367576-hd_1920_1080_30fps.mp4"
+  },
+  {
+    "title": "Stretching",
+    "time": "10 seconds",
+    "thumbnail": "assets/squat3.jpg",
+    "videoUrl": "https://videos.pexels.com/video-files/6296549/6296549-uhd_2560_1080_25fps.mp4"
+  },
+  {
+    "title": "Lifting Heavy Weights",
+    "time": "30 seconds",
+    "thumbnail": "assets/squat4.jpg",
+    "videoUrl": "https://videos.pexels.com/video-files/17189849/17189849-hd_1920_1080_25fps.mp4"
+  }
+
+]
