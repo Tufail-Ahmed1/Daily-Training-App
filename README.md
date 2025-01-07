@@ -13,10 +13,12 @@ A Flutter-based **Daily Training App** designed to help users stay consistent wi
 ---
 
 ## **Screenshots** 📸
+![Copy of Untitled Design (2)](https://github.com/user-attachments/assets/aed40ca4-6b59-4c86-99bf-50d40f7a49d4)
 
-| **Workout List**            | **Exercise View**            | **Rest Timer**            |
+| **Workout Lessons**            | **Exercise View List**            | **Videos**            |
 |-----------------------------|-----------------------------|---------------------------|
-| ![Workout List](screenshots/workout_list.png) | ![Exercise View](screenshots/exercise_view.png) | ![Rest Timer](screenshots/rest_timer.png) |
+| ![Workout List](screenshots/sc1.png) | ![Exercise View](screenshots/sc2.png) | ![Rest Timer](screenshots/sc3.png) 
+| ![Workout List](screenshots/sc4.png) | ![Exercise View](screenshots/sc5.png) |
 
 ---
 
